@@ -6,3 +6,5 @@ db/*/lib/*.zip
 *.iml
 .idea
 
+*/target/
+
